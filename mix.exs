@@ -37,7 +37,7 @@ defmodule DarkEcto.MixProject do
   defp deps do
     [
       {:dark_dev, ">= 1.0.3", only: [:dev, :test], runtime: false},
-      {:dark_matter, ">= 1.0.2"},
+      {:dark_matter, ">= 1.0.3"},
       {:absinthe, ">= 1.5.0", optional: true},
       {:phoenix, ">= 1.5.0", optional: true},
       {:ecto, ">= 3.0.0"},
