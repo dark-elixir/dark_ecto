@@ -5,7 +5,7 @@ defmodule DarkEcto.MixProject do
 
   use Mix.Project
 
-  @version "1.0.0"
+  @version "1.0.1"
   @name "DarkEcto"
   @hexpm_url "http://hexdocs.pm/dark_ecto"
   @github_url "https://github.com/dark-elixir/dark_ecto"
