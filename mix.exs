@@ -42,7 +42,8 @@ defmodule DarkEcto.MixProject do
       {:phoenix, ">= 1.5.0", optional: true},
       {:ecto, ">= 3.0.0"},
       {:ecto_sql, ">= 3.0.0"},
-      {:jason, ">= 1.0.0"}
+      {:jason, ">= 1.0.0"},
+      {:forma, "~> 0.7"}
     ]
   end
 
